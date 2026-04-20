@@ -1,6 +1,28 @@
 
 # 💫 About Me:
-Building backend-focused full-stack applications using Java, Spring Boot, PostgreSQL, and REST APIs, along with improving my React and React Native projects.<br>Java Spring Boot backend projects, REST API development, database-driven applications, and beginner-friendly full-stack or open-source projects.<br>Microservices architecture, performance optimization in Spring Boot, and best practices for scalable backend systems.<br>Spring Boot microservices, advanced SQL & JPA, React Native, and practical use of AI tools (LLMs) for development workflows.<br>Java, Spring Boot, REST APIs, PostgreSQL, JPA/Hibernate, GitHub projects, and building full-stack applications as a fresher.<br>I enjoy turning complex backend problems into clean, efficient solutions and love learning by building real projects.<br>
+Backend-focused Java developer passionate about building scalable and secure applications using Spring Boot and modern backend technologies.
+
+I specialize in designing REST APIs, implementing authentication & authorization using Spring Security (JWT), and building database-driven systems with JPA/Hibernate and PostgreSQL.
+
+💡 What I’m Working On
+Backend systems using Spring Boot
+Authentication & role-based access control
+Clean architecture and scalable API design
+Improving backend performance and code quality
+🧪 Testing & Quality
+Unit Testing: JUnit, Mockito
+Integration Testing with Spring Boot Test
+Testcontainers for real database testing
+Code coverage using JaCoCo
+🧠 Currently Learning
+Microservices architecture
+System design (HLD/LLD basics)
+Docker & containerized environments
+🛠 Tech Stack
+
+Java | Spring Boot | Spring Security | REST APIs | JPA/Hibernate
+PostgreSQL | MySQL | JUnit | Mockito | Testcontainers | Git | Maven
+React (Basics)
 
 
 ## 🌐 Socials:
