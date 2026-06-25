@@ -1,28 +1,89 @@
 
-# 💫 About Me:
-Backend-focused Java developer passionate about building scalable and secure applications using Spring Boot and modern backend technologies.
+# # 💫 About Me
 
-I specialize in designing REST APIs, implementing authentication & authorization using Spring Security (JWT), and building database-driven systems with JPA/Hibernate and PostgreSQL.
+Hi, I'm **Sonu Kumar**, a Java Backend Developer with a Bachelor's degree in Computer Applications (BCA). I enjoy building scalable, secure, and production-ready backend applications using Java and the Spring ecosystem.
 
-💡 What I’m Working On
-Backend systems using Spring Boot
-Authentication & role-based access control
-Clean architecture and scalable API design
-Improving backend performance and code quality
-🧪 Testing & Quality
-Unit Testing: JUnit, Mockito
-Integration Testing with Spring Boot Test
-Testcontainers for real database testing
-Code coverage using JaCoCo
-🧠 Currently Learning
-Microservices architecture
-System design (HLD/LLD basics)
-Docker & containerized environments
-🛠 Tech Stack
+My primary focus is backend engineering with **Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, MySQL, and REST APIs**. I enjoy designing clean architectures, building secure authentication systems, and developing maintainable enterprise-style applications.
 
-Java | Spring Boot | Spring Security | REST APIs | JPA/Hibernate
-PostgreSQL | MySQL | JUnit | Mockito | Testcontainers | Git | Maven
-React (Basics)
+## 🚀 Current Projects
+
+* CampusConnect – College Opportunity Management Platform
+* Razorpay-inspired Payment Gateway
+* Lovable-inspired AI SaaS Platform
+* Airbnb Backend Clone
+* LinkedIn Backend Clone
+* Java + React Developer Portfolio
+
+## 💻 Backend Engineering
+
+* Spring Boot & Spring MVC
+* Spring Security (JWT & RBAC)
+* REST API Development
+* Spring Data JPA & Hibernate
+* PostgreSQL & MySQL
+* Layered Architecture
+* Exception Handling & Validation
+* Authentication & Authorization
+
+## 🌐 Cloud & Distributed Systems
+
+* Microservices Architecture
+* Spring Cloud
+* Apache Kafka
+* API Gateway
+* Docker
+* Kubernetes
+* CI/CD
+* Cloud-Native Development
+
+## 🤖 AI Engineering
+
+* Spring AI
+* LLM Integrations
+* Retrieval-Augmented Generation (RAG)
+* AI-powered Backend Applications
+
+## 🧪 Testing & Quality
+
+* JUnit 5
+* Mockito
+* Spring Boot Test
+* Testcontainers
+* JaCoCo
+* Clean Code Practices
+
+## 📚 Currently Learning
+
+* Advanced Microservices
+* Distributed Systems
+* Software Architecture
+* Backend Performance Optimization
+* System Design (HLD & LLD)
+* Event-Driven Architecture
+* Cloud Infrastructure
+
+## 🛠 Tech Stack
+
+**Languages**
+Java • JavaScript • SQL
+
+**Backend**
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • Spring Cloud
+
+**Databases**
+PostgreSQL • MySQL
+
+**Frontend**
+React • JavaScript • HTML • CSS
+
+**DevOps**
+Docker • Kubernetes • Git • GitHub • Maven • GitHub Actions
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/sonu-kumar-940b9b304
+* Portfolio: https://sonukumar604.github.io/java-react-portfolio/
+
 
 
 ## 🌐 Socials:
