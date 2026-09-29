@@ -107,6 +107,7 @@ Docker • Kubernetes • Git • GitHub • Maven • GitHub Actions • Postma
 - **LinkedIn:** [linkedin.com/in/sonu-kumar-940b9b304](https://www.linkedin.com/in/sonu-kumar-940b9b304/)
 - **Portfolio:** [sonukumar604.github.io/java-react-portfolio](https://sonukumar604.github.io/java-react-portfolio/)
 - **Email:** [sonusaini48292@gmail.com](mailto:sonusaini48292@gmail.com)
+- **Phone:** +91 8708788127
 
 ## 🌐 Socials
 
