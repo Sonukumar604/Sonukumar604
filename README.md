@@ -1,107 +1,137 @@
+# 💫 About Me
 
-# # 💫 About Me
+Hi, I'm **Sonu Kumar**, a Backend Developer with a **BCA** and currently pursuing **MCA from Maharaja Agrasen Institute of Management and Technology, affiliated with Kurukshetra University (KUK)**.
 
-Hi, I'm **Sonu Kumar**, a Java Backend Developer with a Bachelor's degree in Computer Applications (BCA). I enjoy building scalable, secure, and production-ready backend applications using Java and the Spring ecosystem.
+I build secure, scalable, and maintainable backend applications across the **Java/Spring Boot** and **Node.js/NestJS** ecosystems. I enjoy designing REST APIs, database-driven systems, authentication workflows, distributed services, and production-oriented backend architectures.
 
-My primary focus is backend engineering with **Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, MySQL, and REST APIs**. I enjoy designing clean architectures, building secure authentication systems, and developing maintainable enterprise-style applications.
+## 💼 Professional Experience
 
-## 🚀 Current Projects
+**Backend Developer — Allswift Solutions**
 
-* CampusConnect – College Opportunity Management Platform
-* Razorpay-inspired Payment Gateway
-* Lovable-inspired AI SaaS Platform
-* Airbnb Backend Clone
-* LinkedIn Backend Clone
-* Java + React Developer Portfolio
-* E-Commerce website
+- Completed **6 months of professional backend development experience** using **Node.js, NestJS, TypeScript, REST APIs, and database-driven application development**.
+- Worked on backend services, API development, business logic, authentication, validation, and maintainable application architecture.
+- Gained practical experience working with production-oriented backend development and software engineering workflows.
+
+## 🎓 Spring Boot Cohort 6.0
+
+Completed **Spring Boot Cohort 6.0 by Coding Shuttle**, building four major backend projects:
+
+- **LinkedIn Clone** — Professional networking backend with users, connections, posts, interactions, notifications, and feeds.
+- **Airbnb Clone** — Hotel management, search, booking, dynamic pricing, scheduling, payments, refunds, and admin workflows.
+- **Razorpay Clone** — Payment gateway backend covering payment processing, UPI, cards, wallets, net banking, refunds, settlements, webhooks, and transaction workflows.
+- **Lovable Clone** — AI-powered application builder with microservices, Kafka, Saga Pattern, Spring AI, RAG, tool calling, Docker, Kubernetes, and CI/CD.
 
 ## 💻 Backend Engineering
 
-* Spring Boot & Spring MVC
-* Spring Security (JWT & RBAC)
-* REST API Development
-* Spring Data JPA & Hibernate
-* PostgreSQL & MySQL
-* Layered Architecture
-* Exception Handling & Validation
-* Authentication & Authorization
+- Java • Spring Boot • Spring MVC
+- Spring Security • JWT • OAuth2 • RBAC
+- Spring Data JPA • Hibernate
+- REST API Development • API Design
+- Node.js • NestJS • TypeScript
+- PostgreSQL • MySQL • MongoDB
+- Layered Architecture • DTOs • Validation
+- Exception Handling • Authentication & Authorization
 
-## 🌐 Cloud & Distributed Systems
+## 🌐 Microservices & Cloud
 
-* Microservices Architecture
-* Spring Cloud
-* Apache Kafka
-* API Gateway
-* Docker
-* Kubernetes
-* CI/CD
-* Cloud-Native Development
+- Microservices Architecture
+- Spring Cloud • API Gateway
+- Apache Kafka • Event-Driven Architecture
+- Saga Pattern • Distributed Systems
+- Docker • Kubernetes
+- GitHub Actions • CI/CD
+- Cloud-Native Application Development
 
 ## 🤖 AI Engineering
 
-* Spring AI
-* LLM Integrations
-* Retrieval-Augmented Generation (RAG)
-* AI-powered Backend Applications
+- Spring AI
+- LLM Integrations
+- Retrieval-Augmented Generation (RAG)
+- Tool Calling
+- MCP (Model Context Protocol)
+- AI-powered Backend Applications
 
-## 🧪 Testing & Quality
+## 🧪 Testing & Code Quality
 
-* JUnit 5
-* Mockito
-* Spring Boot Test
-* Testcontainers
-* JaCoCo
-* Clean Code Practices
+- JUnit 5 • Mockito
+- Spring Boot Test • Testcontainers
+- JaCoCo
+- Clean Code • SOLID Principles
+- Secure and maintainable backend design
 
-## 📚 Currently Learning
+## 🚀 Current Focus
 
-* Advanced Microservices
-* Distributed Systems
-* Software Architecture
-* Backend Performance Optimization
-* System Design (HLD & LLD)
-* Event-Driven Architecture
-* Cloud Infrastructure
+- Advanced Java & Spring Boot
+- NestJS & TypeScript Backend Development
+- Microservices & Distributed Systems
+- System Design (HLD & LLD)
+- Event-Driven Architecture
+- Backend Performance & Scalability
+- Cloud & DevOps
+- AI-powered backend systems
 
 ## 🛠 Tech Stack
 
 **Languages**
-Java • JavaScript • SQL
+
+Java • JavaScript • TypeScript • SQL • C
 
 **Backend**
-Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • Spring Cloud
+
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • NestJS • Node.js • REST APIs • Spring Cloud
 
 **Databases**
-PostgreSQL • MySQL
+
+PostgreSQL • MySQL • MongoDB • Redis
 
 **Frontend**
+
 React • JavaScript • HTML • CSS
 
-**DevOps**
-Docker • Kubernetes • Git • GitHub • Maven • GitHub Actions
+**DevOps & Tools**
+
+Docker • Kubernetes • Git • GitHub • Maven • GitHub Actions • Postman • IntelliJ IDEA • VS Code • DBeaver
+
+## 📌 Featured Projects
+
+- CampusConnect — College Opportunity Management Platform
+- Razorpay-inspired Payment Gateway
+- Lovable-inspired AI SaaS Platform
+- Airbnb Backend Clone
+- LinkedIn Backend Clone
+- Java + React Developer Portfolio
+- NestJS Authentication System
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/sonu-kumar-940b9b304
-* Portfolio: https://sonukumar604.github.io/java-react-portfolio/
+- **LinkedIn:** [linkedin.com/in/sonu-kumar-940b9b304](https://www.linkedin.com/in/sonu-kumar-940b9b304/)
+- **Portfolio:** [sonukumar604.github.io/java-react-portfolio](https://sonukumar604.github.io/java-react-portfolio/)
+- **Email:** [sonusaini48292@gmail.com](mailto:sonusaini48292@gmail.com)
 
+## 🌐 Socials
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-940b9b304/)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonusaini48292@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonusaini48292@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonukumar604)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Sonukumar604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sonukumar604&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar604&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Sonukumar604&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sonukumar604&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Sonukumar604&icon=0&color=0)](https://visitcount.itsvg.in)
